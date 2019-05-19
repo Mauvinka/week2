@@ -1,0 +1,17 @@
+//
+//  Development.xcconfig
+//  MauSTRV_02
+//
+//  Created by Karel Vrba on 18/05/2019.
+//  Copyright © 2019 Mau. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+
+APP_BUNDLE_NAME = Mau First App (DEV)
+APP_BUNDLE_IDENTIFIER = mau.strv.iOSNights2019.dev
+
+API_BASE_URL = http:/$()/api.development.url
+
